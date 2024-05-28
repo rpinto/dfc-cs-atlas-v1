@@ -1,0 +1,5 @@
+<TargetEndpoint name="backend">
+  <HTTPTargetConnection>
+    <URL>https://10.150.218.177</URL>
+  </HTTPTargetConnection>
+</TargetEndpoint>

@@ -1,0 +1,8 @@
+{
+  "proxies": [
+    {
+      "name": "teste-01"
+    }
+  ],
+  "sharedflows": []
+}
